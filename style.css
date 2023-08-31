@@ -1,0 +1,33 @@
+*{
+box-sizing: border-box;
+}
+button{
+border: none;
+background-color: rgb(219, 255, 255);
+border-radius: 12px;
+padding: 13px;
+cursor: pointer;
+font-size: 15px;
+}
+.cardi{
+width: 100%;
+height: 500px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+padding: 10px;
+border: 1px solid rgb(129, 196, 196);
+}
+body{
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+.exercicio4{
+  display: none;
+}
+.titlo{
+font-size: 1.2rem;
+padding-bottom: 5px;
+border-bottom: 1px solid rgb(129, 196, 196);
+}
