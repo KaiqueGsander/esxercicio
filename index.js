@@ -5,8 +5,12 @@ function exercicio1() {
   }
   document.getElementById("root").style.display = "block"
   document.getElementById("root").innerHTML = `<p> sua mae é: ${nota}</p>`
-  }
-function exercicio2(duration, display){
-var timer = duration seconds
+}
 
+(function exercicio2() {
+  var i = 10;
+  while (i < 0) {
+    i = i - 1;
+  }
+  alert("feliz ano novo");
 }
